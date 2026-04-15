@@ -21,7 +21,7 @@ You will need knobs for the encoders and keycaps, see 3D print section.
 
 ## PCB
 
-The [PCB](PCB/production/BouvetMacroPad_Rev2.1.zip) can be used to produce the new Rev 2.1 version of the macropad.
+The [PCB](PCB/production/BouvetMacroPad-Rev2.1.zip) can be used to produce the new Rev 2.1 version of the macropad.
 
 You can get PCBs printed from PCBWay or any other.
 
